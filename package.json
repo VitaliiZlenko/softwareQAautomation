@@ -1,0 +1,31 @@
+{
+  "name": "softwareqaautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitaliiZlenko/softwareQAautomation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitaliiZlenko/softwareQAautomation/issues"
+  },
+  "homepage": "https://github.com/VitaliiZlenko/softwareQAautomation#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.9",
+    "express": "^4.19.1",
+    "express-session": "^1.18.0",
+    "mongoose": "^8.2.3",
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0"
+  }
+}
